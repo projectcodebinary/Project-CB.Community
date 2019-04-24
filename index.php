@@ -6,7 +6,7 @@
 					<!-- start: page -->
 						<section class="panel" style="padding:10px 10px 10px 10px">
 							<header class="panel-heading">
-							<h2 class="panel-title">CodeBinary Community Page</h2>
+							<h2 class="panel-title">Community Page of CodeBinary Initiatives</h2>
 							</header>
 							<div class="panel-body">
 								<table class="table table-bordered table-striped mb-none" id="datatable-default">
@@ -14,9 +14,9 @@
 										<tr>
 											<th>Name</th>
 											<th>Position</th>
-											<th>Institution</th>
-											<th>Reference</th>
-											<th>Contact</th>
+											<th>Institution (Last Attended)</th>
+											<th>Reference Code</th>
+											<th>E-mail</th>
 										</tr>
 									</thead>
 									<tbody>
@@ -54,7 +54,7 @@
 									
 									</tbody>
 								</table>
-															<p class="text-center text-muted mt-md mb-md">&copy; Copyright 2019 <a href="https://codebinary.in/"><strong>CodeBinary Private Limited</strong></a>.</p>
+															<p class="text-center text-muted mt-md mb-md">A Craft by <a href="https://codebinary.in/"><strong>CodeBinary Initiatives</strong></a>.</p>
 
 							</div>
 						</section>

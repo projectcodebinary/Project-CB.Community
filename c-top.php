@@ -5,10 +5,9 @@
 		<!-- Basic -->
 		<meta charset="UTF-8">
 
-		<title><?php echo $title; ?> : CodeBinary</title>
-		<meta name="keywords" content="CodeBinary Community, Project CodeBinary" />
+		<title><?php echo $title; ?> : CodeBinary Initiatives</title>
 		<meta name="description" content="Community page of CodeBinary">
-		<meta name="author" content="CodeBinary">
+		<meta name="author" content="CodeBinary Initiatives">
 
 		<!-- Mobile Metas -->
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
@@ -39,6 +38,16 @@
 		<script src="assets/vendor/modernizr/modernizr.js"></script>
 		
 		 <link rel="shortcut icon" href="assets/images/codebinary_trans.png" />
+
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-136232244-4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-136232244-4');
+</script>
 
 	</head>
 
