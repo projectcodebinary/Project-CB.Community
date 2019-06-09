@@ -6,7 +6,7 @@
 		<meta charset="UTF-8">
 
 		<title><?php echo $title; ?> : CodeBinary Initiatives</title>
-		<meta name="description" content="Community page of CodeBinary">
+		<meta name="description" content="CodeBinary's community page amalgamates all it's member from various departments and acts as a directory. This page validates it's members' relationship with the company.">
 		<meta name="author" content="CodeBinary Initiatives">
 
 		<!-- Mobile Metas -->
