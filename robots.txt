@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Disallow: /assests
+Disallow: /settings
+Sitemap: https://community.codebinary.in/sitemap.xml
